@@ -87,22 +87,22 @@
                combo_lbkt {
                            timeout-ms = <50>;
                            key-positions = <2 12>;
-                           bindings = <&kp LBKT>;
+                           bindings = <&kp DV_LBKT>;
                };
                combo_rbkt {
                            timeout-ms = <50>;
                            key-positions = <7 17>;
-                           bindings = <&kp RBKT>;
+                           bindings = <&kp DV_RBKT>;
                };
                combo_lbrc {
                            timeout-ms = <50>;
                            key-positions = <1 11>;
-                           bindings = <&kp LBRC>;
+                           bindings = <&kp DV_LBRC>;
                };
                combo_rbrc {
                            timeout-ms = <50>;
                            key-positions = <8 18>;
-                           bindings = <&kp RBRC>;
+                           bindings = <&kp DV_RBRC>;
                };
         };
 };
