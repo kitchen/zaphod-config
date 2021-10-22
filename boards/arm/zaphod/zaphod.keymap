@@ -172,3 +172,7 @@
                 };
         };
 };
+
+&kscan0 {
+    debounce-period = <10>;
+};
